@@ -52,7 +52,7 @@ I like to see the **big picture** first, then dive deep into the implementation.
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F88FF&width=435&lines=Architecting+the+Future;Low-Level+Power;High-Level+Vision;Arch+Linux+Daily" />
 </div>
 
-
+```
  _____
 < moo >
  -----
@@ -61,3 +61,4 @@ I like to see the **big picture** first, then dive deep into the implementation.
             (__)\       )\/\
                 ||----w |
                 ||     ||
+```
