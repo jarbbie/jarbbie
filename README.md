@@ -40,6 +40,8 @@ I like to see the **big picture** first, then dive deep into the implementation.
 
 ---
 
+<!--
+503: SERVICE_UNAVAILABLE
 ### 📊 Vital Signs
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jarbbie&show_icons=true&theme=tokyonight&count_private=true" height="170" alt="stats graph" />
@@ -47,7 +49,7 @@ I like to see the **big picture** first, then dive deep into the implementation.
 </div>
 
 ---
-
+--->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F88FF&width=435&lines=Architecting+the+Future;Low-Level+Power;High-Level+Vision;Arch+Linux+Daily" />
 </div>
