@@ -35,7 +35,7 @@ I like to see the **big picture** first, then dive deep into the implementation.
 
 ### ⚡ Technical Interests
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,postgres,cpp,c,linux,arch,docker,githubactions,vercel,supabase" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,postgres,cpp,c,rust,linux,arch,docker,githubactions,vercel,supabase" />
 </div>
 
 ---
